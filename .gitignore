@@ -5,8 +5,9 @@
 __pycache__/
 *.so
 
-# Jupyter Notebooks
+# Jupyter Notebook output
 .ipynb_checkpoints/
+*.ipynb_checkpoints/
 *.nbconvert.ipynb
 
 # Virtual Environment
