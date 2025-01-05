@@ -1,3 +1,4 @@
 ipykernel==6.29.5
 langchain==0.3.14
+langchain-openai==0.2.14
 notebook==7.3.2
